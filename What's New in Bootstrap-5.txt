@@ -1,0 +1,21 @@
+What's New In Bootstrap-5?
+
+<-----New feature in bootstrap 5------->
+
+ .Jquery remove
+ .Switched to vanilla JavaScript
+ .Responsive font size
+ .Drop support for internet explorer 10,11
+ .Change Gutter Width Unit of Measurement
+ .Remove Card Decks 
+ .Navbar Optimization
+ .Custom SVG Icon Library
+ .Class Update
+
+
+
+
+bootstrap-5 link : v5.getbootstrap.com
+
+
+
